@@ -41,3 +41,7 @@ Commands:
 ## Resume
 
 After you build browser and server sides, fxmanifest automaticly grab build-files. Now you can just start FXServer, or (if server already started) you can just type `restart {name-of-your-resource-here}` in game console. 
+
+
+### TODO: 
+- Add NUI-messages handler
